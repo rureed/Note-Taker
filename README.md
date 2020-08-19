@@ -46,6 +46,6 @@ no test scripts
 If you have any questions, open an issue or contact rureed at undefined.
 
 ## Links:
-Github: 
+Github: https://github.com/rureed/Note-Taker#installSteps
 
 Heroku: 
